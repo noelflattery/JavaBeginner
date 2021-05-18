@@ -5,20 +5,20 @@ will work with any SDK 8 or over. Each Java project corresponds directly to one 
 Also there are 25 videos that cover all the topics in this code<br>
 The topics covered are<br>
 One. Comments and basic operations<br>
-Two: Primitive variables
-Three: If Statements
-Four: Nested if
-Five: The &&(AND) and the ||(OR) operator
-Six: Using If with AND, OR
-Seven: Switch statements
-Eight: While Loops
-Nine: Arrays
-Ten: For loop
-Eleven: More Loops
-Tweleve: Do while loop
-Thirteen: Using loops to traverse arrays
-Fourteen: Modulus
-Fifteen: Ternary operator
+Two: Primitive variables<br>
+Three: If Statements<br>
+Four: Nested if<br>
+Five: The &&(AND) and the ||(OR) operator<br>
+Six: Using If with AND, OR<br>
+Seven: Switch statements<br>
+Eight: While Loops<br>
+Nine: Arrays<br>
+Ten: For loop<br>
+Eleven: More Loops<br>
+Tweleve: Do while loop<br>
+Thirteen: Using loops to traverse arrays<br>
+Fourteen: Modulus<br>
+Fifteen: Ternary operator<br>
 
 
 
